@@ -29,7 +29,7 @@ projects= web sraping, Data analysis, django portfolio.</mark>
 
 <h3>contact us:</h3>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZfSfXtvPLjnwHhHPFtbsNTDBXnZKbhRVRvqVsKhKsTJRpxCNfPLHznbcNBgWsTQPBqrrL">email</a>
-<h1>9666088331</h1>
+<h4>9666088331</h4>
 
 
 

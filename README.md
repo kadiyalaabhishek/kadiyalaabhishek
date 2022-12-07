@@ -29,21 +29,11 @@ projects= web sraping, Data analysis, django portfolio.</mark>
 
 <h3>contact us:</h3>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZfSfXtvPLjnwHhHPFtbsNTDBXnZKbhRVRvqVsKhKsTJRpxCNfPLHznbcNBgWsTQPBqrrL">email</a>
-
+<h1>9666088331</h1>
 
 
 
 
 </body>
-<footer>
-<img="" src="C:\Users\abhir\OneDrive\Desktop/Python-Transparent-Background.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/download (1).png" widht="50" height="50/">
-<img src="./My Portfolio5_files/download.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/Pandas_logo.svg.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/mat.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/56856232112.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/powerbi.png" widht="50" height="50/">
-<img src="./My Portfolio5_files/download (2).png" widht="50" height="50/">
-<img src="./My Portfolio5_files/download (3).png" widht="50" height="50/">
-</footer>
+
 </html>

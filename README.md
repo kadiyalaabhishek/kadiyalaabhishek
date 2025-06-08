@@ -11,10 +11,10 @@
 
 <i>
 <h3>
-<pre><mark>Education= B.SC.(chemstriy).
+<pre><mark>Education= B.SC.(computers).
 Skills= Python Basic to Advance Programming.
 Backed FrameWork= Django.
-Frontend= HTML.
+Frontend= Reactjs,HTML,css,bootstrap, Material UI.
 Tools= Vs code, Jupyter Notebook, Anaconda Navigator.
 Operating System= Windows 10.
 Library= NumPy, Pandas, Matplotlib, and Beautiful Soup.

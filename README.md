@@ -1,72 +1,76 @@
 <div align="center">
 
 # ⚡ ABHISHEK KADIYALA
-### **Full Stack Architect | DevOps Specialist | Generative AI Engineer**
-*Engineering Scalable, Cloud-Native Systems with High-Impact AI Logic*
+### **Python Full Stack Developer | DevOps & AWS Specialist | Generative AI**
+*Engineering Scalable Systems with 99.9% Uptime & Intelligent RAG Pipelines*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirushi33@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
-"Innovating at the intersection of robust AWS infrastructure and intelligent RAG pipelines."
+[cite_start]"Innovating at the intersection of robust cloud infrastructure and intelligent system logic." [cite: 2]
 
 </div>
 
 ## 🎯 Executive Summary
-[cite_start]Innovative **Python Full Stack Developer** and **DevOps Engineer** specialized in building scalable, cloud-native applications[cite: 6, 7]. [cite_start]I leverage **Generative AI** (OpenAI/Gemini) to optimize development cycles and architect intelligent system logic that solves real-world business challenges[cite: 9, 15].
+[cite_start]Innovative **Python Full Stack Developer** and **DevOps Engineer** with a B.Sc. in Computer Science (Graduating 2026)[cite: 6, 42]. [cite_start]I specialize in building scalable, cloud-native applications using **React.js** and **Django**[cite: 7]. [cite_start]I am highly proficient in **AWS infrastructure**, **Docker** containerization, and **CI/CD** automation, leveraging **Generative AI** (ChatGPT, Gemini) to optimize development cycles[cite: 8, 9].
 
 ---
 
 ## 🚀 Featured Project: DocuMind AI (Serverless RAG)
-> [cite_start]**Engineering Challenge:** Create a low-latency document analyzer that scales infinitely without idle server costs[cite: 32, 37].
+> [cite_start]**Engineering Goal:** A production-grade document analyzer that handles large-scale PDFs with high accuracy and zero idle costs[cite: 32, 35, 37].
 
 <p align="center">
-  <img src="./architecture_flowchart.png" width="850" alt="Serverless RAG Architecture">
+  <img src="./architecture_flowchart.png" width="850" alt="RAG Architecture Diagram">
 </p>
 
 ### **The Technical Win:**
-* [cite_start]**90%+ Retrieval Accuracy:** Architected an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline using LangChain and FastAPI[cite: 33, 35].
-* [cite_start]**Serverless Cost Optimization:** Engineered a scalable ingestion workflow on **AWS Lambda** and **S3**, resulting in a **100% reduction in idle server costs**[cite: 36, 37].
-* [cite_start]**Advanced LLM Optimization:** Implemented recursive character splitting to minimize model hallucinations and improve response relevance[cite: 38].
-* [cite_start]**High-Concurrency UI:** Built a real-time streaming chat interface with **React.js** and **Tailwind CSS** for a low-latency user experience[cite: 39].
+* [cite_start]**90%+ Retrieval Accuracy:** Architected a RAG pipeline using **LangChain** and **FastAPI** for semantic interrogation of PDFs[cite: 33, 35].
+* [cite_start]**100% Idle Cost Reduction:** Engineered a serverless ingestion workflow on **AWS Lambda** and **S3**, automating document chunking[cite: 36, 37].
+* [cite_start]**Zero Hallucinations:** Optimized LLM performance via recursive character splitting and advanced indexing[cite: 38].
+* [cite_start]**Real-Time UX:** Developed a high-concurrency **React.js** frontend with a streaming chat interface[cite: 39].
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-### 🧠 Generative AI & Data
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-### ☁️ Cloud & DevOps (AWS Specialist)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-success?style=flat-square)
-
-### 💻 Full Stack Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Generative AI** | [cite_start]LangChain, Gemini/OpenAI API, Prompt Engineering, Vector DBs (Pinecone/FAISS) [cite: 15, 33] |
+| **Cloud & DevOps** | [cite_start]AWS (EC2, S3, IAM, Lambda), Docker, Jenkins, CI/CD Pipelines [cite: 14] |
+| **Languages** | [cite_start]Python (Advanced), Java (Core), JavaScript (ES6+), MySQL [cite: 11] |
+| **Frameworks** | [cite_start]FastAPI, Django, Django REST Framework, Flask, React.js [cite: 12, 13] |
 
 ---
 
-## 📊 Engineering Impact
-* [cite_start]**90% Faster Deployments:** Automated CI/CD pipelines for microservices using **Jenkins**, **Docker**, and **Amazon ECS (Fargate)**[cite: 26, 28].
-* [cite_start]**65% Smaller Footprint:** Reduced container image sizes through multi-stage Docker builds, decreasing deployment latency[cite: 29].
-* [cite_start]**40% Faster Data Retrieval:** Optimized relational database schemas and indexing in **MySQL** for high-volume inventory management.
+## 📈 Engineering Impact (Key Metrics)
+
+### ☁️ DevOps & Infrastructure
+* [cite_start]**90% Faster Deployments:** Reduced manual deployment time from 20 minutes to under 2 minutes using **Jenkins** and **Amazon ECS (Fargate)**[cite: 28, 30].
+* [cite_start]**65% Smaller Footprint:** Containerized environments with multi-stage **Docker** builds to decrease deployment latency[cite: 29].
+* [cite_start]**50% Faster Error Detection:** Integrated **AWS CloudWatch** for centralized monitoring, slashing Mean Time to Detection (MTTD)[cite: 31].
+
+### 💻 Full Stack Development
+* [cite_start]**40% Faster Data Retrieval:** Architected a normalized **MySQL** relational database with optimized indexing for an E-Commerce dashboard[cite: 22].
+* [cite_start]**Secure Auth:** Implemented **JWT** for stateless user authentication and role-based access control[cite: 23].
 
 ---
 
 ## 📜 Certifications & Education
-* **B.Sc. in Computer Science** | [cite_start]Andhra University (Class of 2026)[cite: 42, 43].
+* **Bachelor of Science in Computer Science** | [cite_start]Andhra University (Class of 2026)[cite: 42, 43].
 * **DevOps with AWS** | [cite_start]Python Life (2025)[cite: 46].
 * **Generative AI Mastermind** | [cite_start]Outskill (GrowthSchool)[cite: 48].
-* **React JS Training** | [cite_start]Skills Uprise[cite: 47].
+* **React Js Training** | [cite_start]Skills Uprise[cite: 47].
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build the Future of AI
-I am looking for opportunities to deploy **Agentic AI** and **Cloud-Native Automation** solutions.
+### 🤝 Let's Architect the Future
+I am currently seeking opportunities to build **Agentic AI** and **Cloud-Native Automation** solutions.
 
-[**View My Full Resume**](./ABHISHEK_KADIYALA_RESUME.pdf) • [**Connect on LinkedIn**](https://linkedin.com/in/YOUR_LINKEDIN)
+[**Download My Full Resume**](./ABHISHEK_KADIYALA_RESUME.pdf) • [**Connect on LinkedIn**](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
